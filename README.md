@@ -12,7 +12,7 @@
 
 ```
 bash
-git clone https://github.com/Viniciuscelani/upload-csv-node.git
+git clone https://github.com/Viniciuscelani/Card-Animado.git
 ```
 
 - Depois de clonar o projeto no seu local favorito, abra-o com sua ide favorita
